@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="687dbb17-8b9a-4d35-99d4-f05957a0685d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/OverDraftException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file/TestFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LOL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LOL/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/求和/Armor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/求和/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/TestFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/file/TestFile.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1fATBKByQa9E8jQrG8mmVnlGy9Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -140,23 +137,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="884" height="263" key="GridCell.Tab.0.bottom" timestamp="1596189345042">
+    <state width="864" height="263" key="GridCell.Tab.0.bottom" timestamp="1596287561438">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="884" height="263" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1596189345042" />
-    <state width="884" height="263" key="GridCell.Tab.0.center" timestamp="1596189345041">
+    <state width="864" height="263" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1596287561438" />
+    <state width="864" height="263" key="GridCell.Tab.0.center" timestamp="1596287561437">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="884" height="263" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1596189345041" />
-    <state width="884" height="263" key="GridCell.Tab.0.left" timestamp="1596189345041">
+    <state width="864" height="263" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1596287561437" />
+    <state width="864" height="263" key="GridCell.Tab.0.left" timestamp="1596287561437">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="884" height="263" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1596189345041" />
-    <state width="884" height="263" key="GridCell.Tab.0.right" timestamp="1596189345042">
+    <state width="864" height="263" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1596287561437" />
+    <state width="864" height="263" key="GridCell.Tab.0.right" timestamp="1596287561437">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="884" height="263" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1596189345042" />
+    <state width="864" height="263" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1596287561437" />
+    <state x="999" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1596263595339">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="999" y="45" width="840" height="1034" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1596263595339" />
   </component>
 </project>
